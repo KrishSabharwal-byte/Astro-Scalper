@@ -37,9 +37,9 @@ This repository contains a dedicated scalper for each market segment:
 
 | Segment | Scalper | Instruments |
 |---|---|---|
-| 📈 Futures | `futures_scalper` | Stock & index futures |
+| 📈 Futures | `future_indexes` | Stock & index futures |
 | 🏦 Indexes | `index_scalper` | NIFTY, SENSEX (and more) |
-| 🛢️ Commodities | `commodity_scalper` | Crude Oil, Gold, Silver, Natural Gas (and more) |
+| 🛢️ Commodities | `future` | Crude Oil, Gold, Silver, Natural Gas (and more) |
 
 > 📝 **Note:** Rename the scalper names/files above to match the actual file names in your repo.
 
