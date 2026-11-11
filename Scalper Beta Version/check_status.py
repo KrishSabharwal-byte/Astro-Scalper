@@ -1,0 +1,11 @@
+import paramiko
+ssh = paramiko.SSHClient()
+ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
+ssh.connect("62.72.59.120", username="root", password="Root@#1234567", timeout=30, banner_timeout=60, auth_timeout=60)
+stdin, stdout, stderr = ssh.exec_command("journalctl -u astro_scalper_3005.service -n 20 --no-pager")
+print("=== RECENT LOGS ===")
+print(stdout.read().decode("ascii", errors="ignore").strip())
+stdin, stdout, stderr = ssh.exec_command("curl -s -I http://127.0.0.1:3005/")
+print("=== HTTP HEAD ===")
+print(stdout.read().decode("ascii", errors="ignore").strip())
+ssh.close()

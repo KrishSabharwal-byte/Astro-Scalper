@@ -1,0 +1,11 @@
+import paramiko
+ssh = paramiko.SSHClient()
+ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
+ssh.connect("62.72.59.120", username="root", password="Root@#1234567", timeout=30, banner_timeout=60, auth_timeout=60)
+stdin, stdout, stderr = ssh.exec_command("ss -tulpn | grep 3006; ls -la /root/*3006* /etc/systemd/system/*3006*")
+print("=== PORT 3006 / FILES ===")
+print(stdout.read().decode("ascii", errors="ignore"))
+stdin, stdout, stderr = ssh.exec_command("ps aux | grep 3006")
+print("=== PROCESSES ===")
+print(stdout.read().decode("ascii", errors="ignore"))
+ssh.close()
