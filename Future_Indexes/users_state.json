@@ -1,0 +1,1662 @@
+{
+  "admin": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "admin",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "admin",
+    "created_at": "2026-10-06 11:28:08",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "User1": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "User1",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-10-06 11:28:08",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_astro_api_7aae5f": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_astro_api_7aae5f",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:33:00",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_astro_api_d2188c": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_astro_api_d2188c",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:34:15",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_4b74ff": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_4b74ff",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:35:02",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_ce12a2": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_ce12a2",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:35:04",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_cb68a9": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_cb68a9",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:37:58",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_76faf0": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_76faf0",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:38:00",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_19baa4": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_19baa4",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:38:02",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_688edf": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_688edf",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:38:04",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_afe8fd": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_afe8fd",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:38:06",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_711801": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_711801",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:38:09",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_cd7389": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_cd7389",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:38:43",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_c4ac76": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_c4ac76",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:38:45",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_8b42c0": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_8b42c0",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:38:47",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_d390e3": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_d390e3",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:38:49",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_863255": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_863255",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:38:51",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_0c361c": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_0c361c",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:38:54",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_33d0a1": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_33d0a1",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:39:18",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_a18a1d": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_a18a1d",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:39:20",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_bc1d23": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_bc1d23",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:39:22",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_ad348b": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_ad348b",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:39:47",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_8101bf": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_8101bf",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:39:50",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_d974af": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_d974af",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:39:52",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_0331d7": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_0331d7",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:40:11",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_ace965": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_ace965",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:40:13",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_67b276": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_67b276",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:40:16",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_astro_api_bcfecc": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_astro_api_bcfecc",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:43:08",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_3d4106": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_3d4106",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:43:10",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_c1ce1f": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_c1ce1f",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:43:12",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_272fa3": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_272fa3",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:43:14",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_16c559": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_16c559",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:43:17",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_2cf5ca": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_2cf5ca",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:43:19",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_a6d989": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_a6d989",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:43:21",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_852cc4": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_852cc4",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:43:24",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_00dd81": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_00dd81",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:43:26",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_5ad31e": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_5ad31e",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:43:28",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_29415b": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_29415b",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:43:30",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_ab2741": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_ab2741",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:43:33",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_astro_api_d8848e": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_astro_api_d8848e",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:45:26",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_b0d10b": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_b0d10b",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:45:27",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_9c03a4": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_9c03a4",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:45:30",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_b03f4b": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_b03f4b",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:45:32",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_4c973b": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_4c973b",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:45:35",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_61cc4b": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_61cc4b",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:45:37",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_ee66fc": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_ee66fc",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:45:39",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_cbd8ef": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_cbd8ef",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:45:42",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_98069a": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_98069a",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:45:44",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_aa8d14": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_aa8d14",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:45:46",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_ef4792": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_ef4792",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:45:48",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_65daa8": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_65daa8",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 12:45:50",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_astro_api_438abc": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_astro_api_438abc",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:42:39",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_e6bc27": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_e6bc27",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:42:41",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_998538": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_998538",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:42:44",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_aab2bd": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_aab2bd",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:42:46",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_07a70a": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_07a70a",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:42:49",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_17c1af": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_17c1af",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:42:51",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_a375ea": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_a375ea",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:42:53",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_c3e0ce": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_c3e0ce",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:42:55",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_638400": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_638400",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:42:57",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_8ebe87": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_8ebe87",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:43:00",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_a4352f": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_a4352f",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:43:02",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_d079bd": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_d079bd",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:43:05",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_astro_api_6ff72d": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_astro_api_6ff72d",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:45:00",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_a70b92": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_a70b92",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:45:02",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_4ef6c8": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_4ef6c8",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:45:05",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_cbae23": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_cbae23",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:45:07",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_2096d3": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_2096d3",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:45:10",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_941c55": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_941c55",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:45:12",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_31983c": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_31983c",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:45:14",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_451699": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_451699",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:45:16",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_fb3730": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_fb3730",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:45:18",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_565ae7": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_565ae7",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:45:20",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_022ce1": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_022ce1",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:45:22",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_74d1b3": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_74d1b3",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-23 17:45:25",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_astro_api_8b3e38": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_astro_api_8b3e38",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:11:21",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_2f9ec9": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_2f9ec9",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:11:23",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_67c840": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_67c840",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:11:24",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_8b5916": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_8b5916",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:11:25",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_97e3bc": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_97e3bc",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:11:27",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_472942": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_472942",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:11:28",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_37e616": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_37e616",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:11:29",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_167d96": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_167d96",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:11:30",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_917f5d": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_917f5d",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:11:32",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_f9e224": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_f9e224",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:11:33",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_51f8f1": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_51f8f1",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:11:34",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_19a1dc": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_19a1dc",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:11:35",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_astro_api_12a58c": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_astro_api_12a58c",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:15:27",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_c705cf": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_c705cf",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:15:28",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_b7f123": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_b7f123",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:15:29",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_be35fa": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_be35fa",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:15:31",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_16f6df": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_16f6df",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:15:32",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_b70ea3": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_b70ea3",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:15:33",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_c67c39": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_c67c39",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:15:34",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_b10722": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_b10722",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:15:37",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_e3747f": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_e3747f",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:15:38",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_67365b": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_67365b",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:15:39",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_5ea757": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_5ea757",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:15:41",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_c63b00": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_c63b00",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-24 13:15:42",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_astro_api_3dc9ba": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_astro_api_3dc9ba",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:28:07",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_2aefa4": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_2aefa4",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:28:09",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_51ddd8": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_51ddd8",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:28:12",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_7d79b2": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_7d79b2",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:28:14",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_4f4c18": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_4f4c18",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:28:16",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_3f8f9e": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_3f8f9e",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:28:18",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_c70cd0": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_c70cd0",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:28:20",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_37448c": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_37448c",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:28:23",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_8fcf24": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_8fcf24",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:28:25",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_cbc3e1": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_cbc3e1",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:28:27",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_760c24": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_760c24",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:28:29",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_b58087": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_b58087",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:28:31",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_astro_api_1a44ff": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_astro_api_1a44ff",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:29:41",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_f6b1f9": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_f6b1f9",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:29:43",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_514294": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_514294",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:29:45",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_0051f9": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_0051f9",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:29:47",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_5e4383": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_5e4383",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:29:50",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_dfeda5": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_dfeda5",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:29:52",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_1f98ae": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_1f98ae",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:29:54",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_af9c56": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_af9c56",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:29:57",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_ceaef3": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_ceaef3",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:29:59",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_d4708f": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_d4708f",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:30:01",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_af8d22": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_af8d22",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:30:04",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_1ea6b4": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_1ea6b4",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:30:06",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_astro_api_48e851": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_astro_api_48e851",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:56:50",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_2ba8c8": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_2ba8c8",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:56:51",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_8cda89": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_8cda89",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:56:53",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_a86184": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_a86184",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:56:54",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_91217c": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_91217c",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:56:56",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_f83c41": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_f83c41",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:56:57",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_392e59": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_392e59",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:56:59",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_0bbee9": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_0bbee9",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:57:00",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_1928ac": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_1928ac",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:57:01",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_8547ce": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_8547ce",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:57:03",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_7eec42": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_7eec42",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:57:04",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_9beb59": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_9beb59",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-25 17:57:06",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_astro_api_123a75": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_astro_api_123a75",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:14:00",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_e66eac": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_e66eac",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:14:02",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_2092d0": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_2092d0",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:14:04",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_3af7cf": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_3af7cf",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:14:05",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_758643": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_758643",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:14:07",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_8c3d90": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_8c3d90",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:14:08",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_2f3615": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_2f3615",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:14:10",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_cfd7b6": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_cfd7b6",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:14:11",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_f4b20e": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_f4b20e",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:14:13",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_36c1b0": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_36c1b0",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:14:14",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_6a1ca0": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_6a1ca0",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:14:16",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_8a8d75": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_8a8d75",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:14:17",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_astro_api_d90585": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_astro_api_d90585",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:16:00",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_61ca79": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_61ca79",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:16:02",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_2a8d2e": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_2a8d2e",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:16:03",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_cdc7b7": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_cdc7b7",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:16:05",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_8e2648": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_8e2648",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:16:07",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_7bd3fd": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_7bd3fd",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:16:08",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_2095e6": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_2095e6",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:16:10",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_d51aa9": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_d51aa9",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:16:11",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_6a7697": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_6a7697",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:16:13",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_6fdc9e": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_6fdc9e",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:16:14",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_30760d": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_30760d",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:16:16",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "trader_index_0a7343": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "trader_index_0a7343",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-09-26 11:16:18",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "user1": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "user1",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-10-06 11:28:08",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "user2": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "user2",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-10-06 11:28:08",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "User2": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "User2",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-10-06 11:28:08",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "user3": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "user3",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-10-06 11:28:08",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "User3": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "User3",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-10-06 11:28:08",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "user4": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "user4",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-10-06 11:28:08",
+    "updated_at": "2026-10-06 11:42:58"
+  },
+  "User4": {
+    "_id": "account",
+    "type": "user_account",
+    "client_id": "User4",
+    "password_hash": "$2b$12$hvW916FIna3XYoQpvbqMdux6Rn6tjpdDUKEb5aPelGsGKTspShCSC",
+    "is_active": true,
+    "role": "trader",
+    "created_at": "2026-10-06 11:28:08",
+    "updated_at": "2026-10-06 11:42:58"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "NIFTY": [
+    {
+      "token": "61471",
+      "symbol": "NIFTY23NOV26FUT",
+      "name": "NIFTY",
+      "expiry": "23NOV2026",
+      "strike": "-1.000000",
+      "lotsize": "65",
+      "instrumenttype": "FUTIDX",
+      "exch_seg": "NFO",
+      "tick_size": "10.000000",
+      "freeze_qty": "1801",
+      "is_cas_enabled": false
+    },
+    {
+      "token": "48704",
+      "symbol": "NIFTY27OCT26FUT",
+      "name": "NIFTY",
+      "expiry": "27OCT2026",
+      "strike": "-1.000000",
+      "lotsize": "65",
+      "instrumenttype": "FUTIDX",
+      "exch_seg": "NFO",
+      "tick_size": "10.000000",
+      "freeze_qty": "1801",
+      "is_cas_enabled": false
+    },
+    {
+      "token": "68407",
+      "symbol": "NIFTY29SEP26FUT",
+      "name": "NIFTY",
+      "expiry": "29SEP2026",
+      "strike": "-1.000000",
+      "lotsize": "65",
+      "instrumenttype": "FUTIDX",
+      "exch_seg": "NFO",
+      "tick_size": "10.000000",
+      "freeze_qty": "1801",
+      "is_cas_enabled": false
+    }
+  ],
+  "BANKNIFTY": [
+    {
+      "token": "68390",
+      "symbol": "BANKNIFTY29SEP26FUT",
+      "name": "BANKNIFTY",
+      "expiry": "29SEP2026",
+      "strike": "-1.000000",
+      "lotsize": "30",
+      "instrumenttype": "FUTIDX",
+      "exch_seg": "NFO",
+      "tick_size": "20.000000",
+      "freeze_qty": "601",
+      "is_cas_enabled": false
+    },
+    {
+      "token": "61466",
+      "symbol": "BANKNIFTY23NOV26FUT",
+      "name": "BANKNIFTY",
+      "expiry": "23NOV2026",
+      "strike": "-1.000000",
+      "lotsize": "30",
+      "instrumenttype": "FUTIDX",
+      "exch_seg": "NFO",
+      "tick_size": "20.000000",
+      "freeze_qty": "601",
+      "is_cas_enabled": false
+    },
+    {
+      "token": "48699",
+      "symbol": "BANKNIFTY27OCT26FUT",
+      "name": "BANKNIFTY",
+      "expiry": "27OCT2026",
+      "strike": "-1.000000",
+      "lotsize": "30",
+      "instrumenttype": "FUTIDX",
+      "exch_seg": "NFO",
+      "tick_size": "20.000000",
+      "freeze_qty": "601",
+      "is_cas_enabled": false
+    }
+  ],
+  "SENSEX": [
+    {
+      "token": "1100929",
+      "symbol": "SENSEX26NOVFUT",
+      "name": "SENSEX",
+      "expiry": "26NOV2026",
+      "strike": "0.000000",
+      "lotsize": "20",
+      "instrumenttype": "FUTIDX",
+      "exch_seg": "BFO",
+      "tick_size": "5.000000",
+      "freeze_qty": "500",
+      "is_cas_enabled": false
+    },
+    {
+      "token": "844615",
+      "symbol": "SENSEX26SEPFUT",
+      "name": "SENSEX",
+      "expiry": "24SEP2026",
+      "strike": "0.000000",
+      "lotsize": "20",
+      "instrumenttype": "FUTIDX",
+      "exch_seg": "BFO",
+      "tick_size": "5.000000",
+      "freeze_qty": "500",
+      "is_cas_enabled": false
+    },
+    {
+      "token": "864571",
+      "symbol": "SENSEX26OCTFUT",
+      "name": "SENSEX",
+      "expiry": "29OCT2026",
+      "strike": "0.000000",
+      "lotsize": "20",
+      "instrumenttype": "FUTIDX",
+      "exch_seg": "BFO",
+      "tick_size": "5.000000",
+      "freeze_qty": "500",
+      "is_cas_enabled": false
+    }
+  ]
+}
